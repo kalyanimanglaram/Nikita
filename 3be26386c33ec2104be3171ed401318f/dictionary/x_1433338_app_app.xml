@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a375ef02c37ec2104be3171ed4013151" extends="task" label="App" max_length="40" name="x_1433338_app_app" type="collection">
+        <element label="Field name" max_length="40" name="field_name" type="string"/>
+    </element>
+</database>
